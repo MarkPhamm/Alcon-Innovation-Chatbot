@@ -5,3 +5,4 @@ beautifulsoup4
 parse
 python-docx
 openai
+pysqlite3-binary
