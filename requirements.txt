@@ -1,8 +1,11 @@
-# Requirements for the project
-streamlit
-requests
-beautifulsoup4
-parse
-python-docx
-openai
-pysqlite3-binary
+backports.tarfile==1.2.0
+beautifulsoup4==4.12.3
+importlib-metadata==8.0.0
+jaraco.collections==5.1.0
+openai==1.54.4
+parse==1.20.2
+pip-chill==1.0.3
+platformdirs==4.2.2
+python-docx==1.1.2
+streamlit==1.40.1
+tomli==2.0.1
