@@ -1,0 +1,883 @@
+
+
+## CHMP recommends RYBREVANT®▼ (amivantamab) in combination with LAZCLUZE®▼ (lazertinib) for the first-line treatment of patients with EGFR-mutated advanced non-small cell lung cancer
+
+CHMP recommends RYBREVANT®▼ (amivantamab) in combination with LAZCLUZE®▼ (lazertinib) for the first-line treatment of patients with EGFR-mutated advanced non-small cell lung cancer
+
+
+
+
+
+
+
+
+
+JnJ.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+US
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CHMP recommends RYBREVANT
+®
+▼ (amivantamab) in combination with LAZCLUZE
+®
+▼ (lazertinib) for the first-line treatment of patients with EGFR-mutated advanced non-small cell lung cancer
+CHMP recommends RYBREVANT
+®
+▼ (amivantamab) in combination with LAZCLUZE
+®
+▼ (lazertinib) for the first-line treatment of patients with EGFR-mutated advanced non-small cell lung cancer
+The amivantamab plus lazertinib combination regimen offers potential to provide new standard of care as first-line option for adult patients with advanced NSCLC with EGFR ex19del or L858R substitution mutations
+1
+In the Phase 3 MARIPOSA study, amivantamab plus lazertinib significantly reduced risk of disease progression or death by 30 percent versus osimertinib monotherapy
+1
+November 15, 2024
+November 15, 2024
+Share
+Facebook
+X (Twitter)
+Pinterest
+LinkedIn
+Copy link
+Link copied
+BEERSE, BELGIUM (15 November 2024)
+– Janssen-Cilag International NV, a Johnson & Johnson company, today announced that the Committee for Medicinal Products for Human Use (CHMP) of the European Medicines Agency (EMA) has recommended the Marketing Authorisation (MA)for LAZCLUZE
+®
+▼ (lazertinib), in combination with RYBREVANT
+®
+▼ (amivantamab), for the first-line treatment of adult patients with advanced non-small cell lung cancer (NSCLC) with epidermal growth factor receptor (EGFR) exon 19 deletions (ex19del) or exon 21 L858R (L858R) substitution mutations.
+2
+The CHMP has simultaneously recommended approval of a Type II extension of indication for amivantamab in the same combination regimen.
+2
+“Lung cancer remains the leading cause of cancer-related deaths globally, and patients with EGFR-mutated advanced non-small-cell lung cancer are in need of new targeted treatment options,” said Henar Hevia, Ph.D., Senior Director, EMEA Therapeutic Area Lead, Oncology, Johnson & Johnson . “Pending European Commission approval, the combination of amivantamab with lazertinib could establish a new first-line standard of care, with the potential to significantly delay disease progression and improve outcomes early in the treatment pathway while reserving chemotherapy regimens for later stages of treatment when resistance becomes more complex.”
+The CHMP positive opinions for the MA and Type II extension of indication are supported by data from the Phase 3 MARIPOSA (
+NCT04487080
+) study, evaluating amivantamab in combination with lazertinib compared to osimertinib as first-line treatment of patients with locally advanced or metastatic NSCLC with EGFR ex19del or exon 21 L858R substitution mutations.
+1
+The study met its primary endpoint, and at median follow-up of 22 months, reduced the risk of disease progression or death by 30 percent compared to osimertinib (median progression-free survival [PFS]: 23.7 months compared to 16.6 months for osimertinib; hazard ratio [HR]=0.70;
+95 percent confidence Interval [CI], 0.58–0.85;
+P
+<0.001) as assessed by blinded independent central review (BICR).
+1
+The median duration of response (DOR) was significantly longer for patients receiving amivantamab plus lazertinib compared to osimertinib, with a nine-month improvement in median DOR (25.8 vs. 16.8 months).
+1
+Results from the MARIPOSA study were featured during a Presidential Symposium session at the 2023 European Society of Medical Oncology (ESMO) Congress, with longer-term follow-up data presented at the International Association for the Study of Lung Cancer (IASLC) 2024 World Conference on Lung Cancer (WCLC).
+1,3
+The MARIPOSA study required all patients to have serial brain imaging with magnetic resonance imaging (MRI) in order to detect or monitor brain metastases, a measure not implemented in most prior studies for EGFR-mutated NSCLC.
+1
+The primary endpoint of PFS in MARIPOSA included these central nervous system (CNS) events detected by serial brain MRIs.
+1
+The median PFS when censoring CNS-only first progressions was 27.5 months for the combination of amivantamab and lazertinib, compared to 18.4 months for osimertinib (HR=0.68; 95 percent CI, 0.55–0.83;
+P
+<0.001**).
+1,4
+Longer-term follow-up data shows a strong favourable overall survival trend for amivantamab plus lazertinib versus osimertinib.
+3
+At three years (median follow-up of 31.1 months), 61 percent of patients receiving amivantamab plus lazertinib were alive compared to 53 percent of those treated with osimertinib based on an analysis performed at the request of health authorities*** (Median OS not estimable [NE] vs 37.3 months; HR=0.77; 95 percent CI, 0.61-0.96; nominal
+P
+=0.019).
+3
+The safety profile of the combination of amivantamab and lazertinib was consistent with previous reports from Phase 1-2 studies, with mostly Grade 1 or 2 adverse events (AEs).
+1
+Toxicity was largely manageable with dose interruptions and reductions, along with supportive care measures commonly used in the treatment of patients with NSCLC.
+1
+The most common treatment emergent adverse events (TEAEs) of any grade were paronychia (68 percent), infusion-related reactions (63 percent), and rash (62 percent).
+1
+Amivantamab plus lazertinib had higher rates of EGFR- and MET-related AEs and venous thromboembolism compared to osimertinib, except diarrhoea, for which rates were higher for osimertinib.
+1
+The commonest grade 3 or higher TEAEs were rash (15 percent), paronychia (11 percent) and dermatitis acneiform (8 percent).
+1
+The rate of discontinuation of all study treatments due to treatment-related AEs for the amivantamab combination was 10 percent.
+1
+The rate of interstitial lung disease (including pneumonitis) was less than three percent in both arms.
+1
+“These CHMP positive opinions mark a pivotal step in our mission to deliver transformative first-line therapies for people living with EGFR-mutated NSCLC,” said Kiran Patel, M.D., Vice President, Clinical Development, Solid Tumours, Johnson & Johnson . “Based on the growing body of promising results we’ve seen to date and our ongoing clinical development programme, we believe amivantamab has the potential to become a foundational therapy for EGFR- and MET-driven NSCLC.”
+About the MARIPOSA Study
+MARIPOSA (
+NCT04487080
+), which enrolled 1,074 patients, is a randomised, Phase 3 study evaluating amivantamab
+in combination with lazertinib versus osimertinib and versus lazertinib alone in first-line treatment of patients with locally advanced or metastatic NSCLC with EGFR ex19del or exon 21 L858R substitution mutations.
+1
+The primary endpoint of the study is PFS (using RECIST v1.1 guidelines
+‡
+) as assessed by BICR.
+1
+Secondary endpoints include overall survival (OS), overall response rate (ORR), duration of response (DOR), second progression free survival (PFS2) and intracranial PFS.
+1
+The MARIPOSA study required all patients to have serial brain imaging with MRIs in order to detect or monitor brain metastases, a measure not implemented in most prior studies for EGFR-mutated NSCLC.
+1
+The primary endpoint of PFS in MARIPOSA included these central nervous system (CNS) events detected by serial brain MRIs.
+1
+Extracranial PFS, which may more closely approximate what would be seen in other trials, was also explored in MARIPOSA.
+1
+About Amivantamab
+Amivantamab is a fully-human EGFR-MET bispecific antibody that acts by targeting tumours with activating and resistance EGFR mutations and MET mutations and amplifications, and by harnessing the immune system.
+5,6,7,8
+The European Commission (EC) has granted marketing authorisation of amivantamab in the following indications:
+9
+· In combination in with carboplatin and pemetrexed, for the treatment of adult patients with advanced NSCLC with EGFR exon 19 deletions or 21 L858R substitution mutations, after failure of prior therapy including an EGFR TKI
+· As monotherapy, for treatment of adult patients with advanced NSCLC with activating EGFR exon 20 insertion mutations, after failure of platinum-based therapy
+· In combination with carboplatin and pemetrexed, for the first-line treatment of adult patients with advanced NSCLC with activating EGFR exon 20 insertion mutations
+In February 2024, a Type II extension of indication application was
+submitted
+to the EMA based on the MARIPOSA study, for amivantamab in combination with lazertinib for the first-line treatment of adult patients with advanced NSCLC withEGFR ex19del or L858R substitution mutations.
+10
+In May 2024, an application for the extension of the amivantamab marketing authorisation was submitted seeking approval for the use of a subcutaneous (SC) formulation of amivantamab in combination with lazertinib for the first-line treatment of adult patients with advanced NSCLC with EGFR ex19del or L858R mutations, and for the use of SC amivantamab monotherapy in adult patients with advanced NSCLC with activating EGFR exon 20 insertion mutations after failure of platinum-based therapy.
+11
+For a full list of adverse events and information on dosage and administration, contraindications and other precautions when using amivantamab, please refer to the
+Summary of Product Characteristics
+.
+9
+▼ In line with EMA regulations for new medicines, amivantamab is subject to additional monitoring.
+About Lazertinib
+In 2018, Janssen Biotech, Inc., entered into a license and collaboration agreement with Yuhan Corporation for the development of lazertinib. Lazertinib is an oral, third-generation, brain-penetrant EGFR TKI that targets both the T790M mutation and activating EGFR mutations while sparing wild-type EGFR.
+12
+An analysis of the efficacy and safety of lazertinib from the Phase 3 study LASER301 was published in
+The Journal of Clinical Oncology
+in 2023.
+12
+▼ In line with EMA regulations for new medicines, lazertinib is subject to additional monitoring.
+About Non-Small Cell Lung Cancer
+In Europe, it is estimated that 484,306 people were diagnosed with lung cancer in 2022.
+13
+NSCLC accounts for 85 percent of all lung cancer cases.
+14
+Lung cancer is Europe’s biggest cancer killer, with more deaths than breast cancer and prostate cancer combined.
+13
+The main subtypes of NSCLC are adenocarcinoma, squamous cell carcinoma and large cell carcinoma.
+13
+Among the most common driver mutations in NSCLC are alterations in EGFR, which is a receptor tyrosine kinase controlling cell growth and division.
+14,15
+EGFR mutations are present in 10 to 15 percent of Western patients with NSCLC with adenocarcinoma histology and occur in 40 to 50 percent of Asian patients.
+16,17,18,19
+EGFR ex19del or EGFR exon 21 L858R mutations are the most common EGFR mutations.
+20
+The five-year survival rate for patients with advanced NSCLC and EGFR mutations treated with EGFR TKIs is less than 20 percent and between 25-32 percent of patients receiving the current first-line standard of care, osimertinib, do not survive long enough to reach second-line treatment.
+21,22,23
+About Johnson & Johnson
+At Johnson & Johnson, we believe health is everything. Our strength in healthcare innovation empowers us to build a world where complex diseases are prevented, treated, and cured, where treatments are smarter and less invasive, and solutions are personal. Through our expertise in  and , we are uniquely positioned to innovate across the full spectrum of healthcare solutions today to deliver the breakthroughs of tomorrow, and profoundly impact health for humanity.
+Learn more at
+https:innovativemedicine.jnj.comemea
+. Follow us at
+http:www..comcompanyjnj-innovative-medicine-emea
+. Janssen-Cilag International NV, Janssen Research & Development, LLC, Janssen Biotech, Inc. and Janssen-Cilag, S.A. are Johnson & Johnson companies.
+Cautions Concerning Forward-Looking Statements
+This press release contains “forward-looking statements” as defined in the Private Securities Litigation Reform Act of 1995 regarding product development and the potential benefits and treatment impact of amivantamab or lazertinib. The reader is cautioned not to rely on these forward-looking statements. These statements are based on current expectations of future events. If underlying assumptions prove inaccurate or known or unknown risks or uncertainties materialise, actual results could vary materially from the expectations and projections of Janssen-Cilag International NV, Janssen Research & Development, LLC, Janssen Biotech, Inc., Janssen-Cilag, S.A., andor Johnson & Johnson. Risks and uncertainties include, but are not limited to: challenges and uncertainties inherent in product research and development, including the uncertainty of clinical success and of obtaining regulatory approvals; uncertainty of commercial success; manufacturing difficulties and delays; competition, including technological advances, new products and patents attained by competitors; challenges to patents; product efficacy or safety concerns resulting in product recalls or regulatory action; changes in behaviour and spending patterns of purchasers of health care products and services; changes to applicable laws and regulations, including global health care reforms; and trends toward health care cost containment. A further list and descriptions of these risks, uncertainties and other factors can be found in Johnson & Johnson’s Annual Report on Form 10-K for the fiscal year ended December 31, 2023, including in the sections captioned “Cautionary Note Regarding Forward-Looking Statements” and “Item 1A. Risk Factors,” and in Johnson & Johnson’s subsequent Quarterly Reports on Form 10-Q and other filings with the Securities and Exchange Commission. Copies of these filings are available online at
+http:www.sec.gov
+,
+http:www.jnj.com
+or on request from Johnson & Johnson. None of
+J
+anssen-Cilag International NV, Janssen Research & Development, LLC, Janssen Biotech, Inc., Janssen-Cilag, S.A.
+,
+nor Johnson & Johnson undertakes to update any forward-looking statement as a result of new information or future events or developments.
+© Janssen-Cilag International NV, Inc. 2024. All rights reserved.
+* Prof Felip has served as a consultant to Janssen-Cilag International NV; they have not been paid for any media work.
+** Nominal
+P
+-value; endpoint was exploratory and not part of hierarchical hypothesis testing.
+***This analysis was requested by health authorities and had nominal alpha spend. A P-value of ≤0.00001 was required for statistical significance.
+‡
+RECIST (version 1.1) refers to Response Evaluation Criteria in Solid Tumors, which is a standard way to measure how well solid tumours respond to treatment and is based on whether tumours shrink, stay the same or get bigger.
+Footnotes
+1
+Cho BC, et al. Amivantamab Plus Lazertinib in Previously Untreated EGFR-Mutated Advanced NSCLC. The New England Journal of Medicine 2024. doi:10.1056NEJMoa2403614. Available at: https:www.nejm.orgdoifull10.1056NEJMoa2403614. Accessed November2024.
+2
+European Medicines Agency. Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 11-14 November 2024. Available at: https:www.ema.europa.euennewsmeeting-highlights-committee-medicinal-products-human-use-chmp-11-14-november-2024. Accessed November2024.
+3
+Gadgeel SM, et al. Amivantamab Plus Lazertinib vs Osimertinib in First-line EGFR-mutant Advanced NSCLC: Longer Follow-up of the MARIPOSA Study. IASLC WCLC 2024. September 8, 2024.
+4
+Cho BC P, et al. Amivantamab Plus Lazertinib vs Osimertinib as First-line Treatment in Patients With EGFR-mutated, Advanced Non-small Cell Lung Cancer (NSCLC): Primary Results From MARIPOSA, a Phase 3, Global, Randomized, Controlled Trial. 2023 European Society for Medical Oncology. October 23, 2023
+5
+Grugan KD, et al. Fc-mediated activity of EGFR x c-Met bispecific antibody JNJ-61186372 enhanced killing of lung cancer cells. MAbs 2017;9(1):114-126.
+6
+Moores SL, et al. A Novel Bispecific Antibody Targeting EGFR and cMet Is Effective against EGFR Inhibitor-Resistant Lung Tumors. Cancer Res 2016;76(13)(suppl 27216193):3942-3953.
+7
+Yun J, et al. Antitumor Activity of Amivantamab (JNJ-61186372), an EGFR–MET Bispecific Antibody, in Diverse Models of EGFR Exon 20 Insertion–Driven NSCLC. Cancer Discov 2020;10(8):1194-1209.
+8
+Vijayaraghavan S, et al. Amivantamab (JNJ-61186372), an Fc Enhanced EGFRcMet Bispecific Antibody, Induces Receptor Downmodulation and Antitumor Activity by MonocyteMacrophage Trogocytosis. Mol Cancer Ther 2020;19(10):2044-2056.
+9
+European Medicines Agency. Amivantamab Summary of Product Characteristics. August 2024. Available at https:www.ema.europa.euendocumentsproduct-informationrybrevant-epar-product-information_en.pdf. Accessed November2024.
+10
+Janssen.comEMEA. Janssen Submits Type II Extension of Indication Application to the European Medicines Agency Seeking Approval of RYBREVANT®▼ (amivantamab), in combination with Lazertinib, for the First-Line Treatment of Patients with EGFR Mutated Non-Small Cell Lung Cancer. Available at: https:innovativemedicine.jnj.comemeanewsroomimmunologyjanssen-submits-type-ii-extension-of-indication-application-to-the-european-medicines-agency-seeking-approval-of-rybrevant-amivantamab-in-combination-with-lazertinib-for-the-first-line-treatment-of-patients-with-egfr-mutated-non-small-cell-lung-cancer. Accessed November2024.
+11
+Janssen.comEMEA. Johnson & Johnson submits application to the European Medicines Agency seeking approval of subcutaneous formulation of RYBREVANT®▼ (amivantamab) for the treatment of patients with EGFR-mutated non-small cell lung cancer. Available at: https:innovativemedicine.jnj.comemeanewsroomoncologyjohnson-johnson-submits-application-to-the-european-medicines-agency-seeking-approval-of-subcutaneous-formulation-of-rybrevant-amivantamab-for-the-treatment-of-patients-with-egfr-mutated-non-small-cell-lung-cancer. Accessed November2024.
+12
+Cho, BC, et al. Lazertinib versus gefitinib as first-line treatment in patients with
+EGFR
+-mutated advanced non-small-cell lung cancer: Results From LASER301. J Clin Oncol. 2023;41(26):4208-4217.
+13
+Global Cancer Observatory. Cancer Today. Available at: https:gco.iarc.who.intmediaglobocanfactsheetspopulations908-europe-fact-sheet.pdf. Accessed November2024.
+14
+Zappa C, et al. Non-small cell lung cancer: current treatment and future advances. Transl Lung Cancer Res 2016;5(3):288–300.
+15
+Wee P & Wang Z. Epidermal Growth Factor Receptor Cell Proliferation Signaling Pathways. Cancers 2017;9(12):52.
+16
+Pennell NA, et al. A phase II trial of adjuvant erlotinib in patients with resected epidermal growth factor receptor-mutant non-small cell lung cancer. J Clin Oncol 2019;37(2):97-104.
+17
+Burnett H, et al. Epidemiological and clinical burden of EGFR exon 20 insertion in advanced non-small cell lung cancer: a systematic literature review. Abstract presented at: World Conference on Lung Cancer Annual Meeting (Singapore); January 29, 2021.
+18
+Zhang YL, et al. The prevalence of EGFR mutation in patients with non-small cell lung cancer: a systematic review and meta-analysis. Oncotarget. 2016;7(48):78985- 78993.
+19
+Midha A, et al. EGFR mutation incidence in non-small-cell lung cancer of adenocarcinoma histology: a systematic review and global map by ethnicity. Am J Cancer Res 2015;5(9):2892-2911.
+20
+American Lung Association. EGFR and Lung Cancer. Available at: https:www.lung.orglung-health-diseaseslung-disease-lookuplung-cancersymptomsdiagnosisbiomarker-testingegfr. Accessed November2024.
+21
+Lin JJ, et al. Five-Year Survival in EGFR-Mutant Metastatic Lung Adenocarcinoma Treated with EGFR-TKIs. J Thorac Oncol 2016;11(4):556-65.
+22
+Nieva J, et al. A real-world (rw) observational study of long-term survival (LTS) and treatment patterns after first-line (1L) osimertinib in patients (pts) with epidermal growth factor receptor (EGFR) mutation-positive (m) advanced non-small cell lung cancer (NSCLC). Ann Oncol 2023;34, S774.
+23
+Girard N, et al. Mortality among EGFR-mutated advanced NSCLC patients after frontline osimertinib treatment: A real-world, US attrition analysis. J Thorac Oncol 2023;18(4), S51-52.
+Media contact:
+Zayn Qureshi
+zqureshi@its.jnj.com
++44 7760 334 666
+Investor contact:
+Lauren Johnson
+investor-relations@its.jnj.com
+About us
+Leadership team
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+. 
+
+. Your use of the information on this site is subject to the terms of our
+
+.
+
+.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Nipocalimab demonstrates significant clinical improvement in disease activity and IgG reduction in Phase 2 Sjögren’s disease study
+
+Nipocalimab demonstrates significant clinical improvement in disease activity and IgG reduction in Phase 2 Sjögren’s disease study
+
+
+
+
+
+
+
+
+
+JnJ.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+US
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nipocalimab demonstrates significant clinical improvement in disease activity and IgG reduction in Phase 2 Sjögren’s disease study
+Nipocalimab demonstrates significant clinical improvement in disease activity and IgG reduction in Phase 2 Sjögren’s disease study
+Adults with moderately-to-severely active Sjögren’s disease who received investigational FcRn blocker nipocalimab had improvements in disease activity scores at 24 weeks with accompanying significant reductions in IgG and autoantibody levels
+Nipocalimab was granted U.S. FDA Breakthrough Therapy Designation for the treatment of adults living with moderate-to-severe Sjögren’s disease based on results from the Phase 2 DAHLIAS study
+November 14, 2024
+November 14, 2024
+Share
+Facebook
+X (Twitter)
+Pinterest
+LinkedIn
+Copy link
+Link copied
+WASHINGTON, D.C., (November 14, 2024)
+– Johnson & Johnson (NYSE: JNJ) today announced results from additional analyses of the Phase 2 DAHLIAS study highlighting improvement in key measures of disease activity and significant IgG reduction by over 77% following treatment with investigational nipocalimab in adult patients with moderate-to-severe Sjögren’s disease (SjD). These data were included in a plenary session presentation (Abstract #2527) and two posters (Abstracts #1427 and #2294) and are among the Company’s 43 oral and poster presentations at the American College of Rheumatology (ACR) Convergence 2024.
+Patients receiving nipocalimab, an investigational FcRn blocker, showed a significant improvement in the ClinESSDAI
+a
+score at 24 weeks, achieving the primary endpoint. Additionally, key secondary endpoints were met, indicating reduced disease activity both systemically and across multiple organ systems, as well as improvements in physician assessments and composite SjD assessment tools.
+Results also showed a significant reduction in IgG including autoantibody levels among patients receiving 15 mgkg every two weeks, providing further evidence of nipocalimab’s mechanism of action through interaction with the FcRn. Moreover, improvements in ClinESSDAI were generally greatest in the participants with the highest baseline levels of anti-Ro and anti-La autoantibodies, associated with substantial nipocalimab-induced reductions in IgG and total IgG autoantibodies.
+“These data highlight the relevance of autoantibodies in SjD pathogenesis. The observed reduction in IgG and pivotal autoantibodies, particularly the anti-Ro antibodies, in association with improvement in systemic disease activity and saliva production, represent an exciting advance in our understanding of the disease and how it may be treated effectively. I am also encouraged by the observed trend in many patient-reported measures as they are most important to patients. I look forward to future research to confirm these observations,” said Ghaith Noaiseh, M.D., Associate Professor, Allergy, Clinical Immunology, and Rheumatology, The University of Kansas Medical Center.
+b
+“People living with SjD need targeted treatment options that can help address the underlying causes and alleviate the potentially serious health consequences of the disease.”
+Many people living with SjD experience symptoms that interfere with daily activities and quality of life, including chronic and severe mucosal dryness.
+1,2
+Extraglandular manifestations – more systemic symptoms of SjD – are also common and may impact multiple organ systems, including joints, lungs, kidneys and nervous system.
+3
+These patients with high activity in more than one organ or disease area have an increased mortality risk of up to five-fold.
+4
+In the Phase 2 study, patients reported a decrease in symptoms, with numerical improvements compared with placebo in the symptom categories most important to them, including mouth dryness, eye dryness, vaginal dryness, fatigue, and joint pain. Additionally, an improvement in objective salivary flow (i.e., at least 50% increase from baseline) was observed in more than twice as many patients in the high dose nipocalimab group (15 mgkg) compared to the placebo group (32.7% vs. 16%) at Week 24.
+“No advanced therapies have been approved for SjD to date. A clear need exists for new immunoselective treatments with demonstrated safety profiles that can provide sustained relief from the heavy burden of the overall disease for patients living with SjD,” said Federico Zazzetti, Director, Rheumatology, Global Medical Affairs Lead, Johnson & Johnson . “Johnson & Johnson is committed to continued research to help address this unmet need, and the data presented at ACR demonstrate the potential of nipocalimab in a disease where patients have very few options.”
+Editor’s Notes:
+A. ClinESSDAI is an endpoint specific to SjD and is a composite scale that assesses organ disease activity across 11 organ system domains [cutaneous, pulmonary, renal, articular, muscular, peripheral nervous system (PNS), central nervous system (CNS), hematological, glandular, constitutional, lymphadenopathy and lymphoma]; a higher score indicates greater symptom severity.
+B. Ghaith Noaiseh, M.D., Ph.D. is a paid consultant for Johnson & Johnson. He has not been compensated for any media work
+.
+ABOUT SJÖGREN’S DISEASE
+Sjögren’s disease (SjD) is one of the most prevalent autoantibody-driven diseases for which no therapies are currently approved that treat the underlying and systemic nature of the disease.
+4
+It is a chronic autoimmune disease that is estimated to impact approximately four million people worldwide and is nine times more common in women than men.
+5,6
+SjD is characterized by autoantibody production, chronic inflammation, and lymphocytic infiltration of exocrine glands. Most patients are affected by mucosal dryness (eyes, mouth, vagina), joint pain and fatigue.
+4
+More than 50% of SjD patients have a moderate to severe form of the condition, and disease burden can be as high as that of rheumatoid arthritis or systemic lupus erythematosus and is often associated with impaired quality of life and functional capacity, and increased mortality risk.
+5,3,7
+ABOUT DAHLIAS
+DAHLIAS (
+NCT04969812
+) is a Phase 2 multicenter, randomized, placebo-controlled double-blind study to evaluate the effects of nipocalimab in participants with primary SjD. DAHLIAS is a Phase 2 dose-ranging study of adults with moderately-to-severely active primary SjD who were seropositive for anti-Ro60 andor anti-Ro52 IgG antibodies. 163 adults aged 18-75 were randomized 1:1:1 to receive intravenous nipocalimab at 5 or 15 mgkg or placebo every two weeks through Week 22 and received protocol-permitted background standard of care. Safety assessments were conducted through Week 30. The primary endpoint was change in baseline in the ClinESSDAI Score at Week 24. Select secondary endpoints included:
+Multiple organ system assessments:
+European League Against Rheumatism Sjögren’s Syndrome Disease Activity Index (ESSDAI) is a systemic diseases activity index designed to measure disease activity in patients with primary SjD. It is based on 12 domains including: constitutional, lymphadenopathy, glandular, articular, cutaneous, respiratory, renal, muscular, peripheral nervous system, central nervous system, biological, and hematological.
+Disease Activity Level (DAL) response is a reduction from baseline in disease activity level by at least one level in at least one ClinESSDAI domain (e.g., articular, hematological, cutaneous, constitutional).
+Physician assessment:
+The Physician Global Assessment of Disease Severity (PhGA) is recorded by the investigator, independent of study participants’ assessment, on a scale with responses ranging from 0 (“No SjD activity”) to 100 (“Extremely active SjD”).
+Composite tools for clinical trial endpoints:
+Sjögren’s Tool for Assessing Response (STAR) is a composite responder index that includes all main SjD features, including systemic disease activity, patient-reported symptoms, tear gland item, salivary gland item and serology, in a single tool.
+Composite of Relevant Endpoints for Sjogren’s Syndrome (CRESS), a composite endpoint tool consisting of five complementary items: systemic disease activity, patient-reported symptoms, tear gland item, salivary gland item and serology, for use in trials of primary SjD.
+Patient reported outcomes:
+European League Against Rheumatism Sjögren’s Syndrome Patient-Reported Index (ESSPRI) is a patient-reported assessment of the severity of dryness, fatigue, and pain associated with primary SjD, in which patients report their symptom severity over the last two weeks on a numeric rating scale (NRS), ranging from 0 “No symptoms (dryness, fatigue or pain)” to 10 “maximal imaginable (dryness, fatigue, pain)”.
+Sjögren’s Symptoms tool is a patient-reported assessment of the worst severity of their ocular, oral, and vaginal dryness and joint pain over the past 7 days on a 0 to 10 NRS, from 0 “No [specific symptom]” to 10, “Severe [specific symptom]”.
+ABOUT NIPOCALIMAB
+Nipocalimab is an investigational monoclonal antibody, designed to bind with high affinity to block FcRn and reduce levels of circulating immunoglobulin G (IgG) antibodies potentially without impact on other immune functions. This includes autoantibodies and alloantibodies that underlie multiple conditions across three key segments in the autoantibody space including Rare Autoantibody diseases, Maternal Fetal diseases mediated by maternal alloantibodies and Prevalent Rheumatology.
+8,9,10,11,12,13,14,15,16
+Blockade of IgG binding to FcRn in the placenta is also believed to limit transplacental transfer of maternal alloantibodies to the fetus.
+17,18
+The U.S. Food and Drug Administration (FDA) and European Medicines Agency (EMA) have granted several key designations to nipocalimab including:
+U.S. FDA Fast Track designation in hemolytic disease of the fetus and newborn (HDFN) and warm autoimmune hemolytic anemia (wAIHA) in July 2019, gMG in December 2021 and fetal neonatal alloimmune thrombocytopenia (FNAIT) in March 2024
+U.S. FDA Orphan drug status for wAIHA in December 2019, HDFN in June 2020, gMG in February 2021, chronic inflammatory demyelinating polyneuropathy (CIDP) in October 2021 and FNAIT in December 2023
+U.S. FDA Breakthrough Therapy designation for HDFN in February 2024 and for SjD in November 2024
+EU EMA Orphan medicinal product designation for HDFN in October 2019
+ABOUT JOHNSON & JOHNSON
+At Johnson & Johnson, we believe health is everything. Our strength in healthcare innovation empowers us to build a world where complex diseases are prevented, treated, and cured, where treatments are smarter and less invasive, and solutions are personal. Through our expertise in  and , we are uniquely positioned to innovate across the full spectrum of healthcare solutions today to deliver the breakthroughs of tomorrow, and profoundly impact health for humanity.
+Learn more at
+https:www.jnj.com
+or at
+www.innovativemedicine.jnj.com.
+Follow us at
+@JanssenUS
+and
+@JNJInnovMed
+.
+Janssen Research & Development, LLC, Janssen Biotech, Inc. and Janssen Global Services, LLC are Johnson & Johnson companies.
+Cautions Concerning Forward-Looking Statements
+This press release contains “forward-looking statements” as defined in the Private Securities Litigation Reform Act of 1995 regarding product development and the potential benefits and treatment impact of nipocalimab. The reader is cautioned not to rely on these forward-looking statements. These statements are based on current expectations of future events. If underlying assumptions prove inaccurate or known or unknown risks or uncertainties materialize, actual results could vary materially from the expectations and projections of Janssen Research & Development, LLC, Janssen Biotech, Inc., Janssen Global Services, LLC andor Johnson & Johnson. Risks and uncertainties include, but are not limited to: challenges and uncertainties inherent in product research and development, including the uncertainty of clinical success and of obtaining regulatory approvals; uncertainty of commercial success; manufacturing difficulties and delays; competition, including technological advances, new products and patents attained by competitors; challenges to patents; product efficacy or safety concerns resulting in product recalls or regulatory action; changes in behavior and spending patterns of purchasers of health care products and services; changes to applicable laws and regulations, including global health care reforms; and trends toward health care cost containment. A further list and descriptions of these risks, uncertainties and other factors can be found in Johnson & Johnson’s Annual Report on Form 10-K for the fiscal year ended December 31, 2023, including in the sections captioned “Cautionary Note Regarding Forward-Looking Statements” and “Item 1A. Risk Factors,” and in Johnson & Johnson’s subsequent Quarterly Reports on Form 10-Q and other filings with the Securities and Exchange Commission. Copies of these filings are available online at www.sec.gov, www.jnj.com or on request from Johnson & Johnson. None of Janssen Research & Development, LLC, Janssen Biotech, Inc., Janssen Global Services, LLC nor Johnson & Johnson undertakes to update any forward-looking statement as a result of new information or future events or developments.
+# # #
+Footnotes
+1
+Sjogren’s Disease Foundation. Understanding Sjogrens – Treatment. Available at: https:sjogrens.org. Last accessed: November 2024.
+2
+McCoy SS, Woodham M, Bunya VY, Saldanha IJ, Akpek EK, Makara MA, Baer AN. A comprehensive overview of living with Sjögren’s: results of a National Sjögren’s Foundation survey. Clin Rheumatol. 2022 Jul;41(7):2071-2078. doi: 10.1007s10067-022-06119-w. Epub 2022 Mar 8. PMID: 35257256; PMCID: PMC9610846.
+3
+Carsons SE, Patel BC. Sjogren Syndrome. [Updated 2023 Jul 31]. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2024 Jan-. Available from: https:www.ncbi.nlm.nih.govbooksNBK431049
+4
+Huang H, Xie W, Geng Y, Fan Y, Zhang Z. Mortality in patients with primary Sjögren’s syndrome: a systematic review and meta-analysis. Rheumatology (Oxford). 2021 Sep 1;60(9):4029-4038. doi: 10.1093rheumatologykeab364. PMID: 33878179.
+5
+Nat Rev Rheumatol 20, 158–169 (2024). https:doi.org10.1038s41584-023-01057-6
+6
+Beydon, M., McCoy, S., Nguyen, Y. et al. Epidemiology of Sjögren syndrome.
+7
+Hackett KL, et al. Arthritis Care Res (Hoboken). 2012;64(11):1760-1764.
+8
+ClinicalTrials.gov Identifier: NCT04968912. Available at: https:clinicaltrials.govstudyNCT04968912. Last accessed: November 2024.
+9
+ClinicalTrials.gov Identifier: NCT04951622. Available at: https:clinicaltrials.govct2showNCT04951622. Last accessed: November 2024.
+10
+ClinicalTrials.gov Identifier: NCT05327114. Available at: https:www.clinicaltrials.govstudyNCT05327114. Last accessed: November 2024.
+11
+ClinicalTrials.gov Identifier: NCT04119050. Available at: https:clinicaltrials.govstudyNCT04119050. Last accessed: November 2024.
+12
+ClinicalTrials.gov Identifier: NCT05379634. Available at: https:clinicaltrials.govstudyNCT05379634. Last accessed: November 2024.
+13
+ClinicalTrials.gov Identifier: NCT05912517. Available at: https:www.clinicaltrials.govstudyNCT05912517. Last accessed: November 2024.
+14
+ClinicalTrials.gov Identifier: NCT06028438. Available at: https:clinicaltrials.govstudyNCT06028438. Last accessed: November 2024.
+15
+ClinicalTrials.gov Identifier: NCT04882878. Available at: https:clinicaltrials.govstudyNCT04882878. Last accessed: November 2024.
+16
+ClinicalTrials.gov. NCT03842189. Available at: https:clinicaltrials.govct2showNCT03842189. Last accessed: November 2024.
+17
+Lobato G, Soncini CS. Relationship between obstetric history and Rh(D) alloimmunization severity. Arch Gynecol Obstet. 2008 Mar;277(3):245-8. DOI: 10.1007s00404-007-0446-x. Last accessed: November 2024.
+18
+Roy S, Nanovskaya T, Patrikeeva S, et al. M281, an anti-FcRn antibody, inhibits IgG transfer in a human ex vivo placental perfusion model. Am J Obstet Gynecol. 2019;220(5):498 e491-498 e499.
+Media contact:
+Bridget Kimmel
+Mobile: (215) 688-6033
+bkimmel@its.jnj.com
+Investor contact:
+Lauren Johnson
+investor-relations@its.jnj.com
+About us
+Leadership team
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+. 
+
+. Your use of the information on this site is subject to the terms of our
+
+.
+
+.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Johnson & Johnson MedTech Announces Strategic Agreement with Responsive Arthroscopy to Expand Sports Soft Tissue Solutions
+
+Johnson & Johnson  Announces Strategic Agreement with Responsive Arthroscopy to Expand Sports Soft Tissue Solutions
+
+
+
+
+
+
+
+
+
+JnJ.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+US
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Johnson & Johnson  Announces Strategic Agreement with Responsive Arthroscopy to Expand Sports Soft Tissue Solutions
+Johnson & Johnson  Announces Strategic Agreement with Responsive Arthroscopy to Expand Sports Soft Tissue Solutions
+New collaboration to strengthen and deliver advanced soft tissue repair solutions for shoulder, foot and ankle procedures
+November 14, 2024
+November 14, 2024
+Share
+Facebook
+X (Twitter)
+Pinterest
+LinkedIn
+Copy link
+Link copied
+WEST CHESTER, Penn. – November 14, 2024
+– Johnson & Johnson , a global leader in orthopaedic technologies and solutions, announced today an exclusive commercial distribution agreement in the United States with Responsive Arthroscopy Inc., an innovative medical device company specializing in sports soft tissue repair solutions. This strategic agreement strengthens Johnson & Johnson ’s sports platform, enhancing its soft tissue portfolio to meet the rising demand for advanced solutions in the rapidly growing sports soft tissue repair market.
+“Our relationship with Responsive Arthroscopy is a significant step in expanding our leadership in orthopaedics and advancing our sports soft tissue offerings,” said Aldo Denti, Company Group Chairman, Orthopaedics, Johnson & Johnson . “This collaboration allows us to deliver a broader range of cutting-edge tools that empower surgeons in shoulder, foot and ankle procedures. We’re excited to drive value in this rapidly growing segment and remain committed to advancing patient care in meaningful ways.”
+By combining Johnson & Johnson ’s expertise in orthopaedic innovation with Responsive Arthroscopy’s advanced technologies, this agreement will provide healthcare providers with a more comprehensive set of tools to respond to evolving needs.
+This collaboration marks a critical milestone in Johnson & Johnson ’s mission to deliver innovative, impactful solutions that address evolving needs in orthopaedics and elevate patient outcomes.
+Orthopaedic Solutions from Johnson & Johnson 
+Across Johnson & Johnson, we are tackling the world’s most complex and pervasive health challenges. In Orthopaedics, we are on a mission to keep people moving by leveraging our deep expertise in joint reconstruction, robotics and enabling tech, spine, sports, trauma, and extremities to develop the next generation of medtech solutions. We offer one of the most comprehensive Orthopaedics portfolios in the world that helps heal and restore movement for the millions of patients we serve. For more, visit our
+website
+or follow us at
+@jjmt_ortho
+and on
+LinkedIn
+.
+About Johnson & Johnson
+At Johnson & Johnson, we believe health is everything. Our strength in healthcare innovation empowers us to build a world where complex diseases are prevented, treated, and cured, where treatments are smarter and less invasive, and solutions are personal. Through our expertise in  and , we are uniquely positioned to innovate across the full spectrum of healthcare solutions today to deliver the breakthroughs of tomorrow, and profoundly impact health for humanity. Learn more about our  sector’s global scale and deep expertise in cardiovascular, orthopaedics, surgery and vision solutions at
+https:thenext.jnjmedtech.com
+. Follow us at
+@JNJ
+and on
+LinkedIn
+. DePuy Synthes Products, Inc. is a Johnson & Johnson  company.
+Cautions Concerning Forward-Looking Statements
+This press release contains “forward-looking statements” as defined in the Private Securities Litigation Reform Act of 1995 regarding the
+agreement with Responsive Arthroscopy Inc. The reader is cautioned not to rely on these forward-looking statements. These statements are based on current expectations of future events. If underlying assumptions prove inaccurate or known or unknown risks or uncertainties materialize, actual results could vary materially from the expectations and projections of DePuy Synthes Products, Inc., andor Johnson & Johnson. Risks and uncertainties include, but are not limited to: uncertainty of commercial success; challenges to patents; competition, including technological advances, new products and patents attained by competitors; manufacturing difficulties and delays; product efficacy or safety concerns resulting in product recalls or regulatory action; changes to applicable laws and regulations, including global health care reforms; changes in behavior and spending patterns of purchasers of health care products and services; and trends toward health care cost containment. A further list and descriptions of these risks, uncertainties and other factors can be found in Johnson & Johnson’s Annual Report on Form 10-K for the fiscal year ended December 31, 2023, including in the sections captioned “Cautionary Note Regarding Forward-Looking Statements” and “Item 1A. Risk Factors,” and in Johnson & Johnson’s subsequent Quarterly Reports on Form 10-Q and other filings with the Securities and Exchange Commission. Copies of these filings are available online at www.sec.gov, www.jnj.com or on request from Johnson & Johnson. NeitherDePuy Synthes Products, Inc., nor Johnson & Johnson undertakes to update any forward-looking statement as a result of new information or future events or developments.
+###
+© Johnson & Johnson and its affiliates 2024. All rights reserved.
+About us
+Leadership team
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+. 
+
+. Your use of the information on this site is subject to the terms of our
+
+.
+
+.
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,7 @@
+# Requirements for the project
+streamlit
+requests
+beautifulsoup4
+parse
+python-docx
+openai
