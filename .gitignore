@@ -3,3 +3,7 @@
 
 *.pyc
 __pycache__
+/.pytest_cache
+/.vscode
+/responses.csv
+/utils/legagy.py

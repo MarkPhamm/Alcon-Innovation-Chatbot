@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup
 import scraper
 
 import os,sys
+
 # Function to scrape a specified number of recent press releases from JnJ
 def scrape_jnj_articles(num_articles=1):
     url = "https://www.jnj.com/media-center/press-releases"

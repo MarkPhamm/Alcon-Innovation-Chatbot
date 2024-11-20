@@ -109,7 +109,6 @@ Multiple myeloma is the third most common blood cancer worldwide and remains an 
 In 2024, it was estimated that more than 35,000 people will be diagnosed with multiple myeloma in the U.S. and more than 12,000 people would die from the disease.
 People living with multiple myeloma have a 5-year survival rate of 59.8 percent.
 While some people diagnosed with multiple myeloma initially have no symptoms, most patients are diagnosed due to symptoms that can include bone fracture or pain, low red blood cell counts, tiredness, high calcium levels and kidney problems or infections.
-6,7
 About smoldering multiple myeloma
 Smoldering multiple myeloma is an asymptomatic precursor state to multiple myeloma (MM). Patients with SMM have higher levels of abnormal plasma cells in the bone marrow and an elevated monoclonal protein (M-protein) level in the blood, but they do not yet exhibit the symptoms commonly associated with active multiple myeloma, particularly end-organ damage. Fifteen percent of all cases of newly diagnosed multiple myeloma are classified as smoldering multiple myeloma, and half of those diagnosed with high-risk disease will progress to active multiple myeloma within two years.
 About warm autoimmune hemolytic anemia
@@ -124,7 +123,6 @@ Fetal and neonatal alloimmune thrombocytopenia (FNAIT) is a rare and potentially
 FNAIT can result in severe bleeding complications for a fetus or newborn and is characterized by organ bleeding in the gastrointestinal tract, lungs, or eyes.13 If a severe bleed occurs in the brain, termed intracranial hemorrhage (ICH), death or life-long neurologic effects may occur.13
 ICH occurs in up to 26 percent of untreated pregnancies with FNAIT.
 It has an estimated incidence rate of 1 in 1000 pregnancies.
-13,15
 There are no approved therapies for the treatment of FNAIT. Because FNAIT is not routinely screened for during pregnancy, the diagnosis of an affected FNAIT pregnancy often occurs postnatally.13
 About DARZALEX
 and DARZALEX
@@ -196,14 +194,11 @@ IMBRUVICA
 (ibrutinib) is a once-daily oral medication that is jointly developed and commercialized by Janssen Biotech, Inc., and Pharmacyclics LLC, an AbbVie company. IMBRUVICA
 blocks the BTK protein, which is needed by normal and abnormal B cells, including specific cancer cells, to multiply and spread. By blocking BTK, IMBRUVICA
 may help move abnormal B cells out of their nourishing environments and inhibit their proliferation.
-21,22,23
 is approved in more than 100 countries and has been used to treat more than 300,000 patients worldwide over the last decade. There are more than 50 company-sponsored clinical trials, including 18 Phase 3 studies, spanning more than 11 years evaluating the efficacy and safety of IMBRUVICA
 was first approved by the U.S. FDA in November 2013, and today is indicated for adult patients in four disease areas. These include indications to treat adults with chronic lymphocytic leukemiasmall lymphocytic lymphoma with or without 17p deletion; adults with Waldenström’s macroglobulinemia; and adult and pediatric patients aged one year and older with previously treated chronic graft versus host disease after failure of one or more lines of systemic therapy.
 About Nipocalimab
 Nipocalimab is an investigational monoclonal antibody, designed to bind with high affinity to block FcRn and reduce levels of circulating immunoglobulin G (IgG) antibodies potentially without impact on other immune functions. This includes autoantibodies and alloantibodies that underlie multiple conditions across three key segments in the autoantibody space including Rare Autoantibody diseases, Maternal Fetal diseases mediated by maternal alloantibodies and Prevalent Rheumatology.
-25,26,27,28,29,30,31,32,33
 Blockade of IgG binding to FcRn in the placenta is also believed to limit transplacental transfer of maternal alloantibodies to the fetus.
-34,35
 The U.S. Food and Drug Administration (FDA) and European Medicines Agency (EMA) have granted several key designations to nipocalimab including:
 · U.S. FDA Fast Track designation in hemolytic disease of the fetus and newborn (HDFN) and wAIHA in July 2019, gMG in December 2021 and FNAIT in March 2024
 · U.S. FDA Orphan drug status for wAIHA in December 2019, HDFN in June 2020, gMG in February 2021, chronic inflammatory demyelinating polyneuropathy (CIDP) in October 2021 and FNAIT in December 2023
@@ -266,7 +261,7 @@ ClinicalTrials.gov Identifier: NCT04119050. Available at: https:clinicaltrials.g
 ClinicalTrials.gov Identifier: NCT05379634. Available at: https:clinicaltrials.govstudyNCT05379634. Last accessed: November 2024.
 ClinicalTrials.gov Identifier: NCT05912517. Available at: https:www.clinicaltrials.govstudyNCT05912517. Last accessed: November 2024.
 ClinicalTrials.gov Identifier: NCT06028438. Available at: https:clinicaltrials.govstudyNCT06028438. Last accessed: November 2024.
-ClinicalTrials.gov Identifier: NCT04882878. Available at: https:clinicaltrialsstudydyNCT04882878. Last accessed: November 2024.
+ClinicalTrials.gov Identifier: NCT04882878. Available at: https:clinicaltrials.govstudyNCT04882878. Last accessed: November 2024.
 ClinicalTrials.gov. NCT03842189. Available at: https:clinicaltrials.govct2showNCT03842189. Last accessed: November 2024.
 Lobato G, Soncini CS. Relationship between obstetric history and Rh(D) alloimmunization severity. Arch Gynecol Obstet. 2008 Mar;277(3):245-8. DOI: 10.1007s00404-007-0446-x. Last accessed: November 2024.
 Roy S, Nanovskaya T, Patrikeeva S, et al. M281, an anti-FcRn antibody, inhibits IgG transfer in a human ex vivo placental perfusion model. Am J Obstet Gynecol. 2019;220(5):498 e491-498 e499.
