@@ -1,1 +1,1 @@
-deploy = False
+deploy = True
