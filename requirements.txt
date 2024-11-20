@@ -10,3 +10,4 @@ python-docx==1.1.2
 streamlit==1.40.1
 tomli==2.0.1
 pysqlite3-binary
+langchain_chroma
