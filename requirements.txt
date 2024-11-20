@@ -11,3 +11,5 @@ streamlit==1.40.1
 tomli==2.0.1
 pysqlite3-binary
 langchain_chroma
+langchain_openai
+langchain-experimental
