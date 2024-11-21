@@ -52,7 +52,7 @@ def scrape_jnj_articles(num_articles=1):
     return "\n".join(scraped_content)
 
 def main():
-    jnj_results = scrape_jnj_articles(num_articles=1)
+    jnj_results = scrape_jnj_articles(num_articles=4)
 
     # Save results to a text file in the data folder
     if jnj_results:

@@ -24,6 +24,12 @@ DB_PATH = "./chroma_db"  # Centralized path for the database
 # Set up logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
+def chunk_text(text, chunk_size=500):
+    """
+    Splits the text into chunks of specified size.
+    """
+    return [text[i:i + chunk_size] for i in range(0, len(text), chunk_size)]
+
 def process_txt_files(folders):
     """
     Process TXT files from specified folders and convert them to a list of LangChain documents.
@@ -46,11 +52,15 @@ def process_txt_files(folders):
             with open(file_path, 'r', encoding='utf-8') as f:
                 content = f.read()
             
-            metadata = {
-                "source": file
-            }
-            doc = Document(page_content=content, metadata=metadata)
-            all_docs.append((file, doc))
+            # Chunk the content
+            chunks = chunk_text(content)
+            for i, chunk in enumerate(chunks):
+                metadata = {
+                    "source": file,
+                    "chunk": i
+                }
+                doc = Document(page_content=chunk, metadata=metadata)
+                all_docs.append((file, doc))
             
             logging.info(f"Processed TXT file: {file}")
     

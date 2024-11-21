@@ -13,3 +13,4 @@ pysqlite3-binary
 langchain_chroma
 langchain_openai
 langchain-experimental
+fpdf
